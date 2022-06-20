@@ -1,0 +1,11 @@
+if Player.Part =~ value then
+  prediction = value
+    if textbox.Label = value then
+    setprediction.Value
+      Aim.Value
+       kill.Drop.Value
+ end)
+      G_.Prediction = {}
+        prediction = value  
+          G_.BodyPart = {}
+         BodyPart = Value
